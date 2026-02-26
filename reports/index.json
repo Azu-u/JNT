@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260223-214142-11yb",
+    "title": "Leäds",
+    "commanders": [
+      "Leäds"
+    ],
+    "dateStart": "2026-02-23T13:41:42.000Z",
+    "dateEnd": "2026-02-23T14:58:49.000Z",
+    "dateLabel": "23/02/2026, 21:41:42 - 23/02/2026, 22:58:49",
+    "url": "https://Azu-u.github.io/JNT/?report=20260223-214142-11yb",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 6,
+      "avgEnemySize": 25
+    }
+  },
+  {
     "id": "20260225-212421-tw9k",
     "title": "Incôgnïto",
     "commanders": [

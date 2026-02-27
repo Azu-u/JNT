@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260227-220528-kd7w",
+    "title": "Kryskàa",
+    "commanders": [
+      "Kryskàa"
+    ],
+    "dateStart": "2026-02-27T14:05:28.000Z",
+    "dateEnd": "2026-02-27T16:45:54.000Z",
+    "dateLabel": "27/02/2026, 22:05:28 - 28/02/2026, 00:45:54",
+    "url": "https://Azu-u.github.io/JNT/?report=20260227-220528-kd7w",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 38,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 30
+    }
+  },
+  {
     "id": "20260222-160722-2bdq",
     "title": "Four K Ping Sil, Ki No Uta, Kryskàa",
     "commanders": [

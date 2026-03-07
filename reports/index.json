@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260307-210750-lzkf",
+    "title": "Aqukinnmaster",
+    "commanders": [
+      "Aqukinnmaster"
+    ],
+    "dateStart": "2026-03-07T13:07:50.000Z",
+    "dateEnd": "2026-03-07T14:47:43.000Z",
+    "dateLabel": "07/03/2026, 21:07:50 - 07/03/2026, 22:47:43",
+    "url": "https://Azu-u.github.io/JNT/?report=20260307-210750-lzkf",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 28,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 22,
+      "avgEnemySize": 42
+    }
+  },
+  {
     "id": "20260304-211754-skmw",
     "title": "Kryskàa",
     "commanders": [

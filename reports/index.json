@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260308-212655-lz9h",
+    "title": "Four K Ping Sil, Kryskàa",
+    "commanders": [
+      "Four K Ping Sil",
+      "Kryskàa"
+    ],
+    "dateStart": "2026-03-08T13:26:55.000Z",
+    "dateEnd": "2026-03-08T15:28:29.000Z",
+    "dateLabel": "08/03/2026, 21:26:55 - 08/03/2026, 23:28:29",
+    "url": "https://Azu-u.github.io/JNT/?report=20260308-212655-lz9h",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 28,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 45
+    }
+  },
+  {
     "id": "20260307-210750-lzkf",
     "title": "Aqukinnmaster",
     "commanders": [

@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260312-212904-mcm4",
+    "title": "Aqukinnmaster",
+    "commanders": [
+      "Aqukinnmaster"
+    ],
+    "dateStart": "2026-03-12T13:29:04.000Z",
+    "dateEnd": "2026-03-12T15:16:05.000Z",
+    "dateLabel": "12/03/2026, 21:29:04 - 12/03/2026, 23:16:05",
+    "url": "https://Azu-u.github.io/JNT/?report=20260312-212904-mcm4",
+    "summary": {
+      "borderlandsPct": 0.1,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 27,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 30
+    }
+  },
+  {
     "id": "20260308-212655-lz9h",
     "title": "Four K Ping Sil, Kryskàa",
     "commanders": [

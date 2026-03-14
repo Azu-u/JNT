@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260314-235931-coj9",
+    "title": "Kryskàa",
+    "commanders": [
+      "Kryskàa"
+    ],
+    "dateStart": "2026-03-14T15:59:31.000Z",
+    "dateEnd": "2026-03-14T17:54:01.000Z",
+    "dateLabel": "14/03/2026, 23:59:31 - 15/03/2026, 01:54:01",
+    "url": "https://Azu-u.github.io/JNT/?report=20260314-235931-coj9",
+    "summary": {
+      "borderlandsPct": 0.45714285714285713,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 16,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 31
+    }
+  },
+  {
     "id": "20260312-212904-mcm4",
     "title": "Aqukinnmaster",
     "commanders": [

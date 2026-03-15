@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260315-224952-lxw0",
+    "title": "Kryskàa",
+    "commanders": [
+      "Kryskàa"
+    ],
+    "dateStart": "2026-03-15T14:49:52.000Z",
+    "dateEnd": "2026-03-15T16:14:34.000Z",
+    "dateLabel": "15/03/2026, 22:49:52 - 16/03/2026, 00:14:34",
+    "url": "https://Azu-u.github.io/JNT/?report=20260315-224952-lxw0",
+    "summary": {
+      "borderlandsPct": 0.53125,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 17,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 15,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 32
+    }
+  },
+  {
     "id": "20260314-210703-je2m",
     "title": "Four K Ping Sil, Kryskàa",
     "commanders": [

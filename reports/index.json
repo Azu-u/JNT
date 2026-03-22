@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260322-170100-209k",
+    "title": "Kryskàa",
+    "commanders": [
+      "Kryskàa"
+    ],
+    "dateStart": "2026-03-22T09:01:00.000Z",
+    "dateEnd": "2026-03-22T10:01:33.000Z",
+    "dateLabel": "22/03/2026, 17:01:00 - 22/03/2026, 18:01:33",
+    "url": "https://Azu-u.github.io/JNT/?report=20260322-170100-209k",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 53
+    }
+  },
+  {
     "id": "20260321-211408-10go",
     "title": "Kryskàa",
     "commanders": [

@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260404-214057-arvc",
+    "title": "Four K Ping Sil",
+    "commanders": [
+      "Four K Ping Sil"
+    ],
+    "dateStart": "2026-04-04T13:40:57.000Z",
+    "dateEnd": "2026-04-04T15:28:21.000Z",
+    "dateLabel": "04/04/2026, 21:40:57 - 04/04/2026, 23:28:21",
+    "url": "https://Azu-u.github.io/JNT/?report=20260404-214057-arvc",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 31,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 44
+    }
+  },
+  {
     "id": "20260323-205521-x13z",
     "title": "Four K Ping Sil",
     "commanders": [

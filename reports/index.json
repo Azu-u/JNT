@@ -1,5 +1,38 @@
 [
   {
+    "id": "20260412-203747-3spn",
+    "title": "Four K Ping Sil",
+    "commanders": [
+      "Four K Ping Sil"
+    ],
+    "dateStart": "2026-04-12T12:37:47.000Z",
+    "dateEnd": "2026-04-12T15:33:39.000Z",
+    "dateLabel": "12/04/2026, 20:37:47 - 12/04/2026, 23:33:39",
+    "url": "https://Azu-u.github.io/JNT/?report=20260412-203747-3spn",
+    "summary": {
+      "borderlandsPct": 0.7777777777777778,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 14,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 14,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 8,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 25
+    }
+  },
+  {
     "id": "20260410-214249-wqvg",
     "title": "Incôgnïto, Kryskàa",
     "commanders": [

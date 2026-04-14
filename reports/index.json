@@ -1,5 +1,39 @@
 [
   {
+    "id": "20260414-210631-f3my",
+    "title": "Aiwium, Incôgnïto",
+    "commanders": [
+      "Aiwium",
+      "Incôgnïto"
+    ],
+    "dateStart": "2026-04-14T13:06:31.000Z",
+    "dateEnd": "2026-04-14T15:44:54.000Z",
+    "dateLabel": "14/04/2026, 21:06:31 - 14/04/2026, 23:44:54",
+    "url": "https://Azu-u.github.io/JNT/?report=20260414-210631-f3my",
+    "summary": {
+      "borderlandsPct": 0.20833333333333334,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 16,
+      "avgEnemySize": 27
+    }
+  },
+  {
     "id": "20260412-203747-3spn",
     "title": "Four K Ping Sil",
     "commanders": [

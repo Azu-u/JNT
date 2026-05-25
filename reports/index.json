@@ -1,646 +1,674 @@
-[
-  {
-    "id": "20260523-210135-p5cb",
-    "title": "Four K Ping Sil",
-    "commanders": [
-      "Four K Ping Sil"
-    ],
-    "dateStart": "2026-05-23T13:01:35.000Z",
-    "dateEnd": "2026-05-23T15:23:23.000Z",
-    "dateLabel": "23/05/2026, 21:01:35 - 23/05/2026, 23:23:23",
-    "url": "https://Azu-u.github.io/JNT/?report=20260523-210135-p5cb",
-    "summary": {
-      "borderlandsPct": 0.05,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 38,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 2,
-          "color": "#3b82f6"
-        }
+{
+  "colorPalette": "violet-purple",
+  "glassSurfaces": true,
+  "glassmorphic": true,
+  "entries": [
+    {
+      "id": "20260524-224942-be5i",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
       ],
-      "avgSquadSize": 30,
-      "avgEnemySize": 47
-    }
-  },
-  {
-    "id": "20260426-210117-wwnm",
-    "title": "Kryskàa",
-    "commanders": [
-      "Kryskàa"
-    ],
-    "dateStart": "2026-04-26T13:01:17.000Z",
-    "dateEnd": "2026-04-26T15:12:41.000Z",
-    "dateLabel": "26/04/2026, 21:01:17 - 26/04/2026, 23:12:41",
-    "url": "https://Azu-u.github.io/JNT/?report=20260426-210117-wwnm",
-    "summary": {
-      "borderlandsPct": 0.26666666666666666,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 22,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 8,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-05-24T14:49:42.000Z",
+      "dateEnd": "2026-05-24T15:28:59.000Z",
+      "dateLabel": "24/05/2026, 22:49:42 - 24/05/2026, 23:28:59",
+      "url": "https://Azu-u.github.io/JNT/?report=20260524-224942-be5i",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 43,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 34
+      }
+    },
+    {
+      "id": "20260523-210135-p5cb",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
       ],
-      "avgSquadSize": 33,
-      "avgEnemySize": 37
-    }
-  },
-  {
-    "id": "20260414-210631-f3my",
-    "title": "Aiwium, Incôgnïto",
-    "commanders": [
-      "Aiwium",
-      "Incôgnïto"
-    ],
-    "dateStart": "2026-04-14T13:06:31.000Z",
-    "dateEnd": "2026-04-14T15:44:54.000Z",
-    "dateLabel": "14/04/2026, 21:06:31 - 14/04/2026, 23:44:54",
-    "url": "https://Azu-u.github.io/JNT/?report=20260414-210631-f3my",
-    "summary": {
-      "borderlandsPct": 0.20833333333333334,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 19,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 2,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-05-23T13:01:35.000Z",
+      "dateEnd": "2026-05-23T15:23:23.000Z",
+      "dateLabel": "23/05/2026, 21:01:35 - 23/05/2026, 23:23:23",
+      "url": "https://Azu-u.github.io/JNT/?report=20260523-210135-p5cb",
+      "summary": {
+        "borderlandsPct": 0.05,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 47
+      }
+    },
+    {
+      "id": "20260426-210117-wwnm",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
       ],
-      "avgSquadSize": 16,
-      "avgEnemySize": 27
-    }
-  },
-  {
-    "id": "20260412-203747-3spn",
-    "title": "Four K Ping Sil",
-    "commanders": [
-      "Four K Ping Sil"
-    ],
-    "dateStart": "2026-04-12T12:37:47.000Z",
-    "dateEnd": "2026-04-12T15:33:39.000Z",
-    "dateLabel": "12/04/2026, 20:37:47 - 12/04/2026, 23:33:39",
-    "url": "https://Azu-u.github.io/JNT/?report=20260412-203747-3spn",
-    "summary": {
-      "borderlandsPct": 0.7777777777777778,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 14,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 14,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 8,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-04-26T13:01:17.000Z",
+      "dateEnd": "2026-04-26T15:12:41.000Z",
+      "dateLabel": "26/04/2026, 21:01:17 - 26/04/2026, 23:12:41",
+      "url": "https://Azu-u.github.io/JNT/?report=20260426-210117-wwnm",
+      "summary": {
+        "borderlandsPct": 0.26666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 37
+      }
+    },
+    {
+      "id": "20260414-210631-f3my",
+      "title": "Aiwium, Incôgnïto",
+      "commanders": [
+        "Aiwium",
+        "Incôgnïto"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 25
-    }
-  },
-  {
-    "id": "20260410-214249-wqvg",
-    "title": "Incôgnïto, Kryskàa",
-    "commanders": [
-      "Incôgnïto",
-      "Kryskàa"
-    ],
-    "dateStart": "2026-04-10T13:42:49.000Z",
-    "dateEnd": "2026-04-10T17:05:57.000Z",
-    "dateLabel": "10/04/2026, 21:42:49 - 11/04/2026, 01:05:57",
-    "url": "https://Azu-u.github.io/JNT/?report=20260410-214249-wqvg",
-    "summary": {
-      "borderlandsPct": 0.08,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 46,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 4,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-04-14T13:06:31.000Z",
+      "dateEnd": "2026-04-14T15:44:54.000Z",
+      "dateLabel": "14/04/2026, 21:06:31 - 14/04/2026, 23:44:54",
+      "url": "https://Azu-u.github.io/JNT/?report=20260414-210631-f3my",
+      "summary": {
+        "borderlandsPct": 0.20833333333333334,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 27
+      }
+    },
+    {
+      "id": "20260412-203747-3spn",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260408-202900-yfh3",
-    "title": "Incôgnïto",
-    "commanders": [
-      "Incôgnïto"
-    ],
-    "dateStart": "2026-04-08T12:29:00.000Z",
-    "dateEnd": "2026-04-08T14:32:16.000Z",
-    "dateLabel": "08/04/2026, 20:29:00 - 08/04/2026, 22:32:16",
-    "url": "https://Azu-u.github.io/JNT/?report=20260408-202900-yfh3",
-    "summary": {
-      "borderlandsPct": 0.02564102564102564,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 38,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-04-12T12:37:47.000Z",
+      "dateEnd": "2026-04-12T15:33:39.000Z",
+      "dateLabel": "12/04/2026, 20:37:47 - 12/04/2026, 23:33:39",
+      "url": "https://Azu-u.github.io/JNT/?report=20260412-203747-3spn",
+      "summary": {
+        "borderlandsPct": 0.7777777777777778,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 25
+      }
+    },
+    {
+      "id": "20260410-214249-wqvg",
+      "title": "Incôgnïto, Kryskàa",
+      "commanders": [
+        "Incôgnïto",
+        "Kryskàa"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 39
-    }
-  },
-  {
-    "id": "20260406-203919-tc1t",
-    "title": "Aqukinnmaster, Inting Sil",
-    "commanders": [
-      "Aqukinnmaster",
-      "Inting Sil"
-    ],
-    "dateStart": "2026-04-06T12:39:19.000Z",
-    "dateEnd": "2026-04-06T15:36:55.000Z",
-    "dateLabel": "06/04/2026, 20:39:19 - 06/04/2026, 23:36:55",
-    "url": "https://Azu-u.github.io/JNT/?report=20260406-203919-tc1t",
-    "summary": {
-      "borderlandsPct": 0.05454545454545454,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 52,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-04-10T13:42:49.000Z",
+      "dateEnd": "2026-04-10T17:05:57.000Z",
+      "dateLabel": "10/04/2026, 21:42:49 - 11/04/2026, 01:05:57",
+      "url": "https://Azu-u.github.io/JNT/?report=20260410-214249-wqvg",
+      "summary": {
+        "borderlandsPct": 0.08,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 46,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260408-202900-yfh3",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 39
-    }
-  },
-  {
-    "id": "20260405-205845-7b43",
-    "title": "Four K Ping Sil",
-    "commanders": [
-      "Four K Ping Sil"
-    ],
-    "dateStart": "2026-04-05T12:58:45.000Z",
-    "dateEnd": "2026-04-05T15:31:10.000Z",
-    "dateLabel": "05/04/2026, 20:58:45 - 05/04/2026, 23:31:10",
-    "url": "https://Azu-u.github.io/JNT/?report=20260405-205845-7b43",
-    "summary": {
-      "borderlandsPct": 0.3333333333333333,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 26,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 13,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-04-08T12:29:00.000Z",
+      "dateEnd": "2026-04-08T14:32:16.000Z",
+      "dateLabel": "08/04/2026, 20:29:00 - 08/04/2026, 22:32:16",
+      "url": "https://Azu-u.github.io/JNT/?report=20260408-202900-yfh3",
+      "summary": {
+        "borderlandsPct": 0.02564102564102564,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 39
+      }
+    },
+    {
+      "id": "20260406-203919-tc1t",
+      "title": "Aqukinnmaster, Inting Sil",
+      "commanders": [
+        "Aqukinnmaster",
+        "Inting Sil"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 33
-    }
-  },
-  {
-    "id": "20260404-214057-arvc",
-    "title": "Four K Ping Sil",
-    "commanders": [
-      "Four K Ping Sil"
-    ],
-    "dateStart": "2026-04-04T13:40:57.000Z",
-    "dateEnd": "2026-04-04T15:28:21.000Z",
-    "dateLabel": "04/04/2026, 21:40:57 - 04/04/2026, 23:28:21",
-    "url": "https://Azu-u.github.io/JNT/?report=20260404-214057-arvc",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 31,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-04-06T12:39:19.000Z",
+      "dateEnd": "2026-04-06T15:36:55.000Z",
+      "dateLabel": "06/04/2026, 20:39:19 - 06/04/2026, 23:36:55",
+      "url": "https://Azu-u.github.io/JNT/?report=20260406-203919-tc1t",
+      "summary": {
+        "borderlandsPct": 0.05454545454545454,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 52,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 39
+      }
+    },
+    {
+      "id": "20260405-205845-7b43",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260323-205521-x13z",
-    "title": "Four K Ping Sil",
-    "commanders": [
-      "Four K Ping Sil"
-    ],
-    "dateStart": "2026-03-23T12:55:21.000Z",
-    "dateEnd": "2026-03-23T14:09:25.000Z",
-    "dateLabel": "23/03/2026, 20:55:21 - 23/03/2026, 22:09:25",
-    "url": "https://Azu-u.github.io/JNT/?report=20260323-205521-x13z",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 11,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-04-05T12:58:45.000Z",
+      "dateEnd": "2026-04-05T15:31:10.000Z",
+      "dateLabel": "05/04/2026, 20:58:45 - 05/04/2026, 23:31:10",
+      "url": "https://Azu-u.github.io/JNT/?report=20260405-205845-7b43",
+      "summary": {
+        "borderlandsPct": 0.3333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260404-214057-arvc",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 33
-    }
-  },
-  {
-    "id": "20260322-170100-209k",
-    "title": "Kryskàa",
-    "commanders": [
-      "Kryskàa"
-    ],
-    "dateStart": "2026-03-22T09:01:00.000Z",
-    "dateEnd": "2026-03-22T10:01:33.000Z",
-    "dateLabel": "22/03/2026, 17:01:00 - 22/03/2026, 18:01:33",
-    "url": "https://Azu-u.github.io/JNT/?report=20260322-170100-209k",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 16,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-04-04T13:40:57.000Z",
+      "dateEnd": "2026-04-04T15:28:21.000Z",
+      "dateLabel": "04/04/2026, 21:40:57 - 04/04/2026, 23:28:21",
+      "url": "https://Azu-u.github.io/JNT/?report=20260404-214057-arvc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260323-205521-x13z",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 53
-    }
-  },
-  {
-    "id": "20260321-211408-10go",
-    "title": "Kryskàa",
-    "commanders": [
-      "Kryskàa"
-    ],
-    "dateStart": "2026-03-21T13:14:08.000Z",
-    "dateEnd": "2026-03-21T16:16:55.000Z",
-    "dateLabel": "21/03/2026, 21:14:08 - 22/03/2026, 00:16:55",
-    "url": "https://Azu-u.github.io/JNT/?report=20260321-211408-10go",
-    "summary": {
-      "borderlandsPct": 0.09803921568627451,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 46,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 2,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-03-23T12:55:21.000Z",
+      "dateEnd": "2026-03-23T14:09:25.000Z",
+      "dateLabel": "23/03/2026, 20:55:21 - 23/03/2026, 22:09:25",
+      "url": "https://Azu-u.github.io/JNT/?report=20260323-205521-x13z",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260322-170100-209k",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 40
-    }
-  },
-  {
-    "id": "20260315-224952-lxw0",
-    "title": "Kryskàa",
-    "commanders": [
-      "Kryskàa"
-    ],
-    "dateStart": "2026-03-15T14:49:52.000Z",
-    "dateEnd": "2026-03-15T16:14:34.000Z",
-    "dateLabel": "15/03/2026, 22:49:52 - 16/03/2026, 00:14:34",
-    "url": "https://Azu-u.github.io/JNT/?report=20260315-224952-lxw0",
-    "summary": {
-      "borderlandsPct": 0.53125,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 17,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 15,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-22T09:01:00.000Z",
+      "dateEnd": "2026-03-22T10:01:33.000Z",
+      "dateLabel": "22/03/2026, 17:01:00 - 22/03/2026, 18:01:33",
+      "url": "https://Azu-u.github.io/JNT/?report=20260322-170100-209k",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 53
+      }
+    },
+    {
+      "id": "20260321-211408-10go",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 32
-    }
-  },
-  {
-    "id": "20260314-210703-je2m",
-    "title": "Four K Ping Sil, Kryskàa",
-    "commanders": [
-      "Four K Ping Sil",
-      "Kryskàa"
-    ],
-    "dateStart": "2026-03-14T13:07:03.000Z",
-    "dateEnd": "2026-03-14T17:54:01.000Z",
-    "dateLabel": "14/03/2026, 21:07:03 - 15/03/2026, 01:54:01",
-    "url": "https://Azu-u.github.io/JNT/?report=20260314-210703-je2m",
-    "summary": {
-      "borderlandsPct": 0.42857142857142855,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 24,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 18,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-03-21T13:14:08.000Z",
+      "dateEnd": "2026-03-21T16:16:55.000Z",
+      "dateLabel": "21/03/2026, 21:14:08 - 22/03/2026, 00:16:55",
+      "url": "https://Azu-u.github.io/JNT/?report=20260321-211408-10go",
+      "summary": {
+        "borderlandsPct": 0.09803921568627451,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 46,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 40
+      }
+    },
+    {
+      "id": "20260315-224952-lxw0",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 29
-    }
-  },
-  {
-    "id": "20260314-235931-coj9",
-    "title": "Kryskàa",
-    "commanders": [
-      "Kryskàa"
-    ],
-    "dateStart": "2026-03-14T15:59:31.000Z",
-    "dateEnd": "2026-03-14T17:54:01.000Z",
-    "dateLabel": "14/03/2026, 23:59:31 - 15/03/2026, 01:54:01",
-    "url": "https://Azu-u.github.io/JNT/?report=20260314-235931-coj9",
-    "summary": {
-      "borderlandsPct": 0.45714285714285713,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 19,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 16,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-03-15T14:49:52.000Z",
+      "dateEnd": "2026-03-15T16:14:34.000Z",
+      "dateLabel": "15/03/2026, 22:49:52 - 16/03/2026, 00:14:34",
+      "url": "https://Azu-u.github.io/JNT/?report=20260315-224952-lxw0",
+      "summary": {
+        "borderlandsPct": 0.53125,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260314-210703-je2m",
+      "title": "Four K Ping Sil, Kryskàa",
+      "commanders": [
+        "Four K Ping Sil",
+        "Kryskàa"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 31
-    }
-  },
-  {
-    "id": "20260312-212904-mcm4",
-    "title": "Aqukinnmaster",
-    "commanders": [
-      "Aqukinnmaster"
-    ],
-    "dateStart": "2026-03-12T13:29:04.000Z",
-    "dateEnd": "2026-03-12T15:16:05.000Z",
-    "dateLabel": "12/03/2026, 21:29:04 - 12/03/2026, 23:16:05",
-    "url": "https://Azu-u.github.io/JNT/?report=20260312-212904-mcm4",
-    "summary": {
-      "borderlandsPct": 0.1,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 27,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 3,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-14T13:07:03.000Z",
+      "dateEnd": "2026-03-14T17:54:01.000Z",
+      "dateLabel": "14/03/2026, 21:07:03 - 15/03/2026, 01:54:01",
+      "url": "https://Azu-u.github.io/JNT/?report=20260314-210703-je2m",
+      "summary": {
+        "borderlandsPct": 0.42857142857142855,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 29
+      }
+    },
+    {
+      "id": "20260314-235931-coj9",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260308-212655-lz9h",
-    "title": "Four K Ping Sil, Kryskàa",
-    "commanders": [
-      "Four K Ping Sil",
-      "Kryskàa"
-    ],
-    "dateStart": "2026-03-08T13:26:55.000Z",
-    "dateEnd": "2026-03-08T15:28:29.000Z",
-    "dateLabel": "08/03/2026, 21:26:55 - 08/03/2026, 23:28:29",
-    "url": "https://Azu-u.github.io/JNT/?report=20260308-212655-lz9h",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 28,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-14T15:59:31.000Z",
+      "dateEnd": "2026-03-14T17:54:01.000Z",
+      "dateLabel": "14/03/2026, 23:59:31 - 15/03/2026, 01:54:01",
+      "url": "https://Azu-u.github.io/JNT/?report=20260314-235931-coj9",
+      "summary": {
+        "borderlandsPct": 0.45714285714285713,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 31
+      }
+    },
+    {
+      "id": "20260312-212904-mcm4",
+      "title": "Aqukinnmaster",
+      "commanders": [
+        "Aqukinnmaster"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 45
-    }
-  },
-  {
-    "id": "20260307-210750-lzkf",
-    "title": "Aqukinnmaster",
-    "commanders": [
-      "Aqukinnmaster"
-    ],
-    "dateStart": "2026-03-07T13:07:50.000Z",
-    "dateEnd": "2026-03-07T14:47:43.000Z",
-    "dateLabel": "07/03/2026, 21:07:50 - 07/03/2026, 22:47:43",
-    "url": "https://Azu-u.github.io/JNT/?report=20260307-210750-lzkf",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 28,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-12T13:29:04.000Z",
+      "dateEnd": "2026-03-12T15:16:05.000Z",
+      "dateLabel": "12/03/2026, 21:29:04 - 12/03/2026, 23:16:05",
+      "url": "https://Azu-u.github.io/JNT/?report=20260312-212904-mcm4",
+      "summary": {
+        "borderlandsPct": 0.1,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260308-212655-lz9h",
+      "title": "Four K Ping Sil, Kryskàa",
+      "commanders": [
+        "Four K Ping Sil",
+        "Kryskàa"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 42
-    }
-  },
-  {
-    "id": "20260304-211754-skmw",
-    "title": "Kryskàa",
-    "commanders": [
-      "Kryskàa"
-    ],
-    "dateStart": "2026-03-04T13:17:54.000Z",
-    "dateEnd": "2026-03-04T14:16:00.000Z",
-    "dateLabel": "04/03/2026, 21:17:54 - 04/03/2026, 22:16:00",
-    "url": "https://Azu-u.github.io/JNT/?report=20260304-211754-skmw",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 14,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-03-08T13:26:55.000Z",
+      "dateEnd": "2026-03-08T15:28:29.000Z",
+      "dateLabel": "08/03/2026, 21:26:55 - 08/03/2026, 23:28:29",
+      "url": "https://Azu-u.github.io/JNT/?report=20260308-212655-lz9h",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 45
+      }
+    },
+    {
+      "id": "20260307-210750-lzkf",
+      "title": "Aqukinnmaster",
+      "commanders": [
+        "Aqukinnmaster"
       ],
-      "avgSquadSize": 15,
-      "avgEnemySize": 15
-    }
-  },
-  {
-    "id": "20260302-211253-ffbi",
-    "title": "Kryskàa",
-    "commanders": [
-      "Kryskàa"
-    ],
-    "dateStart": "2026-03-02T13:12:53.000Z",
-    "dateEnd": "2026-03-02T14:31:44.000Z",
-    "dateLabel": "02/03/2026, 21:12:53 - 02/03/2026, 22:31:44",
-    "url": "https://Azu-u.github.io/JNT/?report=20260302-211253-ffbi",
-    "summary": {
-      "borderlandsPct": 0.05555555555555555,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 17,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-07T13:07:50.000Z",
+      "dateEnd": "2026-03-07T14:47:43.000Z",
+      "dateLabel": "07/03/2026, 21:07:50 - 07/03/2026, 22:47:43",
+      "url": "https://Azu-u.github.io/JNT/?report=20260307-210750-lzkf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 42
+      }
+    },
+    {
+      "id": "20260304-211754-skmw",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
       ],
-      "avgSquadSize": 14,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260227-220528-kd7w",
-    "title": "Kryskàa",
-    "commanders": [
-      "Kryskàa"
-    ],
-    "dateStart": "2026-02-27T14:05:28.000Z",
-    "dateEnd": "2026-02-27T16:45:54.000Z",
-    "dateLabel": "27/02/2026, 22:05:28 - 28/02/2026, 00:45:54",
-    "url": "https://Azu-u.github.io/JNT/?report=20260227-220528-kd7w",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 38,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-04T13:17:54.000Z",
+      "dateEnd": "2026-03-04T14:16:00.000Z",
+      "dateLabel": "04/03/2026, 21:17:54 - 04/03/2026, 22:16:00",
+      "url": "https://Azu-u.github.io/JNT/?report=20260304-211754-skmw",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
+      "id": "20260302-211253-ffbi",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260222-160722-2bdq",
-    "title": "Four K Ping Sil, Ki No Uta, Kryskàa",
-    "commanders": [
-      "Four K Ping Sil",
-      "Ki No Uta",
-      "Kryskàa"
-    ],
-    "dateStart": "2026-02-22T08:07:22.000Z",
-    "dateEnd": "2026-02-22T13:48:34.000Z",
-    "dateLabel": "22/02/2026, 16:07:22 - 22/02/2026, 21:48:34",
-    "url": "https://Azu-u.github.io/JNT/?report=20260222-160722-2bdq",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 51,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-02T13:12:53.000Z",
+      "dateEnd": "2026-03-02T14:31:44.000Z",
+      "dateLabel": "02/03/2026, 21:12:53 - 02/03/2026, 22:31:44",
+      "url": "https://Azu-u.github.io/JNT/?report=20260302-211253-ffbi",
+      "summary": {
+        "borderlandsPct": 0.05555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 19
+      }
+    },
+    {
+      "id": "20260227-220528-kd7w",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
       ],
-      "avgSquadSize": 27,
-      "avgEnemySize": 41
-    }
-  },
-  {
-    "id": "20260223-214142-11yb",
-    "title": "Leäds",
-    "commanders": [
-      "Leäds"
-    ],
-    "dateStart": "2026-02-23T13:41:42.000Z",
-    "dateEnd": "2026-02-23T14:58:49.000Z",
-    "dateLabel": "23/02/2026, 21:41:42 - 23/02/2026, 22:58:49",
-    "url": "https://Azu-u.github.io/JNT/?report=20260223-214142-11yb",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 16,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-27T14:05:28.000Z",
+      "dateEnd": "2026-02-27T16:45:54.000Z",
+      "dateLabel": "27/02/2026, 22:05:28 - 28/02/2026, 00:45:54",
+      "url": "https://Azu-u.github.io/JNT/?report=20260227-220528-kd7w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260222-160722-2bdq",
+      "title": "Four K Ping Sil, Ki No Uta, Kryskàa",
+      "commanders": [
+        "Four K Ping Sil",
+        "Ki No Uta",
+        "Kryskàa"
       ],
-      "avgSquadSize": 6,
-      "avgEnemySize": 25
-    }
-  },
-  {
-    "id": "20260225-212421-tw9k",
-    "title": "Incôgnïto",
-    "commanders": [
-      "Incôgnïto"
-    ],
-    "dateStart": "2026-02-25T13:24:21.000Z",
-    "dateEnd": "2026-02-25T15:26:00.000Z",
-    "dateLabel": "25/02/2026, 21:24:21 - 25/02/2026, 23:26:00",
-    "url": "https://Azu-u.github.io/JNT/?report=20260225-212421-tw9k",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 34,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-22T08:07:22.000Z",
+      "dateEnd": "2026-02-22T13:48:34.000Z",
+      "dateLabel": "22/02/2026, 16:07:22 - 22/02/2026, 21:48:34",
+      "url": "https://Azu-u.github.io/JNT/?report=20260222-160722-2bdq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 51,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 41
+      }
+    },
+    {
+      "id": "20260223-214142-11yb",
+      "title": "Leäds",
+      "commanders": [
+        "Leäds"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 41
+      "dateStart": "2026-02-23T13:41:42.000Z",
+      "dateEnd": "2026-02-23T14:58:49.000Z",
+      "dateLabel": "23/02/2026, 21:41:42 - 23/02/2026, 22:58:49",
+      "url": "https://Azu-u.github.io/JNT/?report=20260223-214142-11yb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 25
+      }
+    },
+    {
+      "id": "20260225-212421-tw9k",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "dateStart": "2026-02-25T13:24:21.000Z",
+      "dateEnd": "2026-02-25T15:26:00.000Z",
+      "dateLabel": "25/02/2026, 21:24:21 - 25/02/2026, 23:26:00",
+      "url": "https://Azu-u.github.io/JNT/?report=20260225-212421-tw9k",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 41
+      }
     }
-  }
-]
+  ]
+}

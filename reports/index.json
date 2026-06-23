@@ -4,6 +4,35 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260621-222420-wm71",
+      "title": "Aqukinnmaster, Midnîgth",
+      "commanders": [
+        "Aqukinnmaster",
+        "Midnîgth"
+      ],
+      "dateStart": "2026-06-21T14:24:20.000Z",
+      "dateEnd": "2026-06-21T15:20:45.000Z",
+      "dateLabel": "21/06/2026, 22:24:20 - 21/06/2026, 23:20:45",
+      "url": "https://Azu-u.github.io/JNT/?report=20260621-222420-wm71",
+      "summary": {
+        "borderlandsPct": 0.56,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260618-213947-d222",
       "title": "Four K Ping Sil",
       "commanders": [

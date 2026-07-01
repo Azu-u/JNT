@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260701-220619-xako",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
+      ],
+      "dateStart": "2026-07-01T14:06:19.000Z",
+      "dateEnd": "2026-07-01T14:46:12.000Z",
+      "dateLabel": "01/07/2026, 22:06:19 - 01/07/2026, 22:46:12",
+      "url": "https://Azu-u.github.io/JNT/?report=20260701-220619-xako",
+      "summary": {
+        "borderlandsPct": 0.1,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260630-211245-h3xa",
       "title": "Summit Unleashed",
       "commanders": [

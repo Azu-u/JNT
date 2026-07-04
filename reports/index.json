@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260704-213103-h68j",
+      "title": "Aqukinnmaster",
+      "commanders": [
+        "Aqukinnmaster"
+      ],
+      "dateStart": "2026-07-04T13:31:03.000Z",
+      "dateEnd": "2026-07-04T14:02:39.000Z",
+      "dateLabel": "04/07/2026, 21:31:03 - 04/07/2026, 22:02:39",
+      "url": "https://Azu-u.github.io/JNT/?report=20260704-213103-h68j",
+      "summary": {
+        "borderlandsPct": 0.19047619047619047,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260701-220619-xako",
       "title": "Four K Ping Sil",
       "commanders": [

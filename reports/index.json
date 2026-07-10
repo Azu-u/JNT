@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260710-223520-cq5u",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
+      ],
+      "dateStart": "2026-07-10T14:35:20.000Z",
+      "dateEnd": "2026-07-10T15:41:15.000Z",
+      "dateLabel": "10/07/2026, 22:35:20 - 10/07/2026, 23:41:15",
+      "url": "https://Azu-u.github.io/JNT/?report=20260710-223520-cq5u",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260704-213103-h68j",
       "title": "Aqukinnmaster",
       "commanders": [

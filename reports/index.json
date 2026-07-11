@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260711-220459-p1k7",
+      "title": "Incôgnïto, Inting Sil",
+      "commanders": [
+        "Incôgnïto",
+        "Inting Sil"
+      ],
+      "dateStart": "2026-07-11T14:04:59.000Z",
+      "dateEnd": "2026-07-11T15:15:23.000Z",
+      "dateLabel": "11/07/2026, 22:04:59 - 11/07/2026, 23:15:23",
+      "url": "https://Azu-u.github.io/JNT/?report=20260711-220459-p1k7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260710-223520-cq5u",
       "title": "Four K Ping Sil",
       "commanders": [

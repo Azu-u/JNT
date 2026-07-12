@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260712-203318-g3if",
+      "title": "Inting Sil, Kryskàa",
+      "commanders": [
+        "Inting Sil",
+        "Kryskàa"
+      ],
+      "dateStart": "2026-07-12T12:33:18.000Z",
+      "dateEnd": "2026-07-12T15:15:52.000Z",
+      "dateLabel": "12/07/2026, 20:33:18 - 12/07/2026, 23:15:52",
+      "url": "https://Azu-u.github.io/JNT/?report=20260712-203318-g3if",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 59,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260711-220459-p1k7",
       "title": "Incôgnïto, Inting Sil",
       "commanders": [

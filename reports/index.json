@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260714-230737-z99a",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
+      ],
+      "dateStart": "2026-07-14T15:07:37.000Z",
+      "dateEnd": "2026-07-14T15:59:35.000Z",
+      "dateLabel": "14/07/2026, 23:07:37 - 14/07/2026, 23:59:35",
+      "url": "https://Azu-u.github.io/JNT/?report=20260714-230737-z99a",
+      "summary": {
+        "borderlandsPct": 0.02040816326530612,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 48,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260713-220549-375h",
       "title": "Four K Ping Sil",
       "commanders": [

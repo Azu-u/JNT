@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260717-214100-hkuo",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
+      ],
+      "dateStart": "2026-07-17T13:41:00.000Z",
+      "dateEnd": "2026-07-17T15:50:44.000Z",
+      "dateLabel": "17/07/2026, 21:41:00 - 17/07/2026, 23:50:44",
+      "url": "https://Azu-u.github.io/JNT/?report=20260717-214100-hkuo",
+      "summary": {
+        "borderlandsPct": 0.76,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 38,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260714-230737-z99a",
       "title": "Kryskàa",
       "commanders": [

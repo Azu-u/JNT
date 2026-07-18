@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260718-231326-4rnu",
+      "title": "Majitasukete",
+      "commanders": [
+        "Majitasukete"
+      ],
+      "dateStart": "2026-07-18T15:13:26.000Z",
+      "dateEnd": "2026-07-18T16:21:43.000Z",
+      "dateLabel": "18/07/2026, 23:13:26 - 19/07/2026, 00:21:43",
+      "url": "https://Azu-u.github.io/JNT/?report=20260718-231326-4rnu",
+      "summary": {
+        "borderlandsPct": 0.1111111111111111,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260717-214100-hkuo",
       "title": "Kryskàa",
       "commanders": [

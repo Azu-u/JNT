@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260722-223234-41t0",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
+      ],
+      "dateStart": "2026-07-22T14:32:34.000Z",
+      "dateEnd": "2026-07-22T15:25:16.000Z",
+      "dateLabel": "22/07/2026, 22:32:34 - 22/07/2026, 23:25:16",
+      "url": "https://Azu-u.github.io/JNT/?report=20260722-223234-41t0",
+      "summary": {
+        "borderlandsPct": 0.6923076923076923,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260718-231326-4rnu",
       "title": "Majitasukete",
       "commanders": [

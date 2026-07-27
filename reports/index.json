@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260727-211654-eyjv",
+      "title": "Big Boss Sil",
+      "commanders": [
+        "Big Boss Sil"
+      ],
+      "dateStart": "2026-07-27T13:16:54.000Z",
+      "dateEnd": "2026-07-27T14:20:44.000Z",
+      "dateLabel": "27/07/2026, 21:16:54 - 27/07/2026, 22:20:44",
+      "url": "https://Azu-u.github.io/JNT/?report=20260727-211654-eyjv",
+      "summary": {
+        "borderlandsPct": 0.2,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260722-223234-41t0",
       "title": "Four K Ping Sil",
       "commanders": [

@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260802-202315-auib",
+      "title": "Majitasukete",
+      "commanders": [
+        "Majitasukete"
+      ],
+      "dateStart": "2026-08-02T12:23:15.000Z",
+      "dateEnd": "2026-08-02T15:09:32.000Z",
+      "dateLabel": "02/08/2026, 20:23:15 - 02/08/2026, 23:09:32",
+      "url": "https://Azu-u.github.io/JNT/?report=20260802-202315-auib",
+      "summary": {
+        "borderlandsPct": 0.17391304347826086,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260801-205258-mms0",
       "title": "Summit Unleashed",
       "commanders": [

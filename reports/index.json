@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260805-221635-xh90",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "dateStart": "2026-08-05T14:16:35.000Z",
+      "dateEnd": "2026-08-05T14:54:42.000Z",
+      "dateLabel": "05/08/2026, 22:16:35 - 05/08/2026, 22:54:42",
+      "url": "https://Azu-u.github.io/JNT/?report=20260805-221635-xh90",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260803-212126-rjuf",
       "title": "Aqukinnmaster",
       "commanders": [

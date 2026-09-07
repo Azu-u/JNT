@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260907-221324-naxf",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-07T14:13:24.000Z",
+      "dateEnd": "2026-09-07T14:55:43.521Z",
+      "dateLabel": "07/09/2026, 22:13:24 - 07/09/2026, 22:55:43",
+      "url": "https://Azu-u.github.io/JNT/?report=20260907-221324-naxf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260831-220533-ru0o",
       "title": "Kryskàa",
       "commanders": [

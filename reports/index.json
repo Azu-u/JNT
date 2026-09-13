@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260913-215728-axjx",
+      "title": "Midnîgth",
+      "commanders": [
+        "Midnîgth"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-13T13:57:28.000Z",
+      "dateEnd": "2026-09-13T14:35:56.055Z",
+      "dateLabel": "13/09/2026, 21:57:28 - 13/09/2026, 22:35:56",
+      "url": "https://Azu-u.github.io/JNT/?report=20260913-215728-axjx",
+      "summary": {
+        "borderlandsPct": 0.34210526315789475,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260909-215533-tudi",
       "title": "Incôgnïto",
       "commanders": [

@@ -4,6 +4,41 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260920-182237-ph92",
+      "title": "Incôgnïto, Kryskàa, Midnîgth",
+      "commanders": [
+        "Incôgnïto",
+        "Kryskàa",
+        "Midnîgth"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-20T10:22:37.000Z",
+      "dateEnd": "2026-09-20T11:10:50.000Z",
+      "dateLabel": "20/09/2026, 18:22:37 - 20/09/2026, 19:10:50",
+      "url": "https://Azu-u.github.io/JNT/?report=20260920-182237-ph92",
+      "summary": {
+        "borderlandsPct": 0.48148148148148145,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260913-215728-axjx",
       "title": "Midnîgth",
       "commanders": [

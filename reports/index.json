@@ -2,7 +2,41 @@
   "colorPalette": "violet-purple",
   "glassSurfaces": true,
   "glassmorphic": true,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260927-225315-czvd",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-27T14:53:15.000Z",
+      "dateEnd": "2026-09-27T15:34:08.454Z",
+      "dateLabel": "27/09/2026, 22:53:15 - 27/09/2026, 23:34:08",
+      "url": "https://Azu-u.github.io/JNT/?report=20260927-225315-czvd",
+      "summary": {
+        "borderlandsPct": 0.031746031746031744,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 61,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 31
+      }
+    },
     {
       "id": "20260927-170322-bnxc",
       "title": "Kryskàa",

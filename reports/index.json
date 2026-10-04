@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261004-220250-ez13",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-10-04T14:02:50.000Z",
+      "dateEnd": "2026-10-04T14:49:33.362Z",
+      "dateLabel": "04/10/2026, 22:02:50 - 04/10/2026, 22:49:33",
+      "url": "https://Azu-u.github.io/JNT/?report=20261004-220250-ez13",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 45,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260927-225315-czvd",
       "title": "Kryskàa",
       "commanders": [

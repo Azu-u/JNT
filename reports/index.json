@@ -1,9 +1,47 @@
 {
   "colorPalette": "violet-purple",
+  "axiTheme": "glass",
+  "glass": true,
   "glassSurfaces": true,
-  "glassmorphic": true,
-  "axiDesign": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.9"
+  },
   "entries": [
+    {
+      "id": "20261021-210826-57rt",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "51E25755-67E3-E311-BB46-80C16E7C6D65",
+        "name": "Juang Number Ten",
+        "tag": "JNT"
+      },
+      "dateStart": "2026-10-21T13:08:26.000Z",
+      "dateEnd": "2026-10-21T13:46:30.825Z",
+      "dateLabel": "21/10/2026, 21:08:26 - 21/10/2026, 21:46:30",
+      "url": "https://Azu-u.github.io/JNT/?report=20261021-210826-57rt",
+      "publishedBy": "Azu-u",
+      "summary": {
+        "borderlandsPct": 0.030303030303030304,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20261019-221025-9fqh",
       "title": "Incôgnïto",
